@@ -4,9 +4,9 @@
 This project involves designing and implementing a **5-stage pipelined RISC-V processor** capable of executing the **Bubble Sort algorithm**. The goal was to enhance our understanding of processor architecture by constructing a single-cycle processor, converting it into a pipelined processor, and implementing hazard detection mechanisms.  
 
 ## Team Members  
-- **Mahrukh Yousuf (08055)**  
-- **Ayesha Eiman (08013)**  
-- **Arsal Jangda (08514)**  
+- **Mahrukh Yousuf**  
+- **Ayesha Eiman**  
+- **Arsal Jangda**  
 
 ## Tasks & Implementation  
 
